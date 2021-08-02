@@ -1,0 +1,29 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+<link href="./index_files/feed.xml" rel="self" type="application/atom+xml"/>
+<link href="./" rel="alternate" type="text/html"/>
+<updated>2021-07-29T21:36:29+00:00</updated>
+<id>./index_files/feed.xml</id>
+<title type="html">Kidcode1 | Ciberseguridad </title>
+<subtitle>Notas de ciberseguridad</subtitle>
+<author>
+<name>Kidcode1</name>
+</author>
+<entry>
+<title type="html">Siberseguridad y Coding</title>
+<link href="index.html" rel="alternate" type="text/html" title="Notas de Seguridad"/>
+<published>2021-07-29T00:00:00+00:00</published>
+<updated>2021-07-29T00:00:00+00:00</updated>
+<id>Home</id>
+<content type="html" xml:base="#"><p align="center">
+</p></content>
+<author>
+<name>Kidcode1</name>
+</author>
+<category term="Scripting"/>
+<category term="GitHub"/>
+<category term="Bash"/>
+<category term=".Net"/>
+<summary type="html">Apacionado por la seguridad informatica y el coding.</summary>
+</entry>
+</feed>
